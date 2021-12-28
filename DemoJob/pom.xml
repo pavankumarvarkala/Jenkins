@@ -22,4 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <ciManagement>
+  	<url> </url>
+  </ciManagement>
 </project>
