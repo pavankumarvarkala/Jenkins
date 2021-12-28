@@ -9,7 +9,8 @@ public class AddTest {
 	@Test
 	public void Addtest() {
 		test junit=new test();
-		int result=junit.add(100, 250);
-	}
+		int result=junit.add(200, 90);
+ 		
+ 	}
 
 }
